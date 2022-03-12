@@ -1,0 +1,30 @@
+Coding Interviews:
+
+Iteration + Recursion
+Arrays + Matrices
+linked lists
+Queues + Stacks + Heaps
+Sets + Hash maps
+Tress + Binary search
+Tries
+Graphs + BFS + DFS
+Sorting(especially merge sort and quick sort)
+bit manipulation
+
+Dynamic Programming
+Memoization, Divide and Conquer
+Induction proofs
+
+Pratice problems using :
+Multiple pointers
+Sliding windows
+Greedy Algorithms
+OOPS
+
+1) Most powerful datastructure is Hash map so use it
+2) use lot of stacks and queues
+3) use sets and dfs
+
+
+
+ 
